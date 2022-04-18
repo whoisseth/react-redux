@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "boAt Airdrodes 141",
+        "price": "1,399",
+        "imgSrc": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/back_720x.png?v=1648723802"
+    },
+    {
+        "id": "2",
+        "name": "boAt Airdopes 131 ",
+        "price": "1,149",
+        "imgSrc": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/c2386af9-4349-432f-8ba5-2b6aa06025c8_460x.png?v=1642405569"
+    },
+    {
+        "id": "3",
+        "name": "BOAT Airdopes 121 v2",
+        "price": "1,199",
+        "imgSrc": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/airdopes-121-v2-pink_460x.png?v=1612765377"
+    },
+    {
+        "id": "4",
+        "name": "boAt Airdopes 402",
+        "price": "1,599",
+        "imgSrc": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3b27aa2a-68ce-47db-a975-ffd5543393b6_460x.png?v=1625046357"
+    },
+    {
+        "id": "5",
+        "name": "TRebel Airdopes 131",
+        "price": "1,299",
+        "imgSrc": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_b6960b52-58d9-4e72-bd08-e4ae4f111bb2_720x.png?v=1645517420"
+    },
+    {
+        "id": "6",
+        "name": "BOAT Airdopes 441 Pro",
+        "price": "2,499",
+        "imgSrc": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/8c3152c6-b4b5-4376-8290-91a5256b083d_720x.png?v=1625045659"
+    },
+    {
+        "id": "7",
+        "name": "Airdopes 441 Sunburn Edition",
+        "price": "2,999",
+        "imgSrc": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_7aa8c6c2-054b-42d5-a701-1e0ac33549c1_720x.png?v=1645014290"
+    },
+    {
+        "id": "8",
+        "name": "Airdopes 131 - Captain America Marvel Edition",
+        "price": "1,499",
+        "imgSrc": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/CA131-main_900x.png?v=1639987804"
+    }
+]
